@@ -13,6 +13,19 @@ void reverse_string(char input[]){
     }
 }
 
+int is_palindrome(const char *s){
+    int array_length = strlen(s);
+    
+    for(int count = 0; count < array_length / 2; count++){
+        if(s[count] != s[array_length - 1 - count]){
+            printf("Not a palindrome\n");
+            return 0;
+        }
+    }
+    printf("%s is a palindrome\n", s);
+    return 1;
+}
+
 
 /**
  * Reversing an input string and returning as array (an array of characters)

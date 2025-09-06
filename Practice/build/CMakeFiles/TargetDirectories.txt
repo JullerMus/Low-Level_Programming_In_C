@@ -1,0 +1,3 @@
+/Users/juliuslykkegaard/Documents/Datamatiker/4. Semester/Low Level Programming in C/Low-Level_Programming_In_C/Practice/build/CMakeFiles/Basics.dir
+/Users/juliuslykkegaard/Documents/Datamatiker/4. Semester/Low Level Programming in C/Low-Level_Programming_In_C/Practice/build/CMakeFiles/edit_cache.dir
+/Users/juliuslykkegaard/Documents/Datamatiker/4. Semester/Low Level Programming in C/Low-Level_Programming_In_C/Practice/build/CMakeFiles/rebuild_cache.dir

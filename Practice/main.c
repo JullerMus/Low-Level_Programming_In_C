@@ -6,7 +6,8 @@ int main()
     char palindrome[] = "detartrated";
 
     //reverse_string(input);
-    is_palindrome(palindrome);
+    //is_palindrome(palindrome);
+    count_lines_words_chars();
 
     return 0;
 }
